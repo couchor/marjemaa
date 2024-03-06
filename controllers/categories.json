@@ -1,0 +1,171 @@
+[
+  {
+    "parent_url": "/",
+    "categories": ["Fotod", "Read pildil"]
+  },
+
+
+
+
+  {
+    "parent_url": "fotod",
+    "seo": {
+      "seo_title": "Marjemaa | Fotod",
+      "seo_description": "Fotod eesti loomadest, aastaaegadest ja loodusest."
+    },
+    "categories": ["Aastaajad", "Karvased", "Sulelised", "Õied", "Kah tore", "Muud tegelased"]
+  },
+
+
+  {
+    "parent_url": "aastaajad",
+    "seo": {
+      "seo_title": "Marjemaa | Aastaajad",
+      "seo_description": "Fotod eesti loodusest erinevatel aastaaegadel."
+    },
+    "categories": ["Talv", "Kevad", "Suvi", "Sügis"]
+  },
+  {
+    "parent_url": "talv",
+    "seo": {
+      "seo_title": "Marjemaa | Talv",
+      "seo_description": "Fotod talvisest eesti loodusest."
+    }
+  },
+  {
+    "parent_url": "kevad",
+    "seo": {
+      "seo_title": "Marjemaa | Kevad",
+      "seo_description": "Fotod kevadisest eesti loodusest."
+    }
+  },
+  {
+    "parent_url": "suvi",
+    "seo": {
+      "seo_title": "Marjemaa | Suvi",
+      "seo_description": "Fotod suvisest eesti loodusest."
+    }
+  },
+  {
+    "parent_url": "sügis",
+    "seo": {
+      "seo_title": "Marjemaa | Talv",
+      "seo_description": "Fotod sügisesest eesti loodusest."
+    }
+  },
+
+
+  {
+    "parent_url": "õied",
+    "seo": {
+      "seo_title": "Marjemaa | Õied",
+      "seo_description": "Fotod eestis taimedest."
+    }
+  },
+
+  {
+    "parent_url": "sulelised",
+    "seo": {
+      "seo_title": "Marjemaa | Sulelised",
+      "seo_description": "Fotod eesti lindudest."
+    }
+  },
+
+  {
+    "parent_url": "muud tegelased",
+    "seo": {
+      "seo_title": "Marjemaa | Muud tegelased",
+      "seo_description": "Fotod väikestest eesti loomadest. Liblikad, mesilased, putukad, konnad jne."
+    }
+  },
+
+  {
+    "parent_url": "karvased",
+    "seo": {
+      "seo_title": "Marjemaa | Karvased",
+      "seo_description": "Fotod kõiksugu eestis leitavatest loomadest."
+    },
+    "categories": ["Kodukarvased", "Metsakarvased"]
+  },
+  {
+    "parent_url": "kodukarvased",
+    "seo": {
+      "seo_title": "Marjemaa | Kodukarvased",
+      "seo_description": "Fotod koduloomadest. Kassid, koerad, hobused, lehmad."
+    }
+  },
+  {
+    "parent_url": "metsakarvased",
+    "seo": {
+      "seo_title": "Marjemaa | Metsakarvased",
+      "seo_description": "Fotod eesti metsloomadest. Hirved, rebased, põdrad, oravad jne."
+    }
+  },
+
+
+
+
+  {
+    "parent_url": "kah tore",
+    "seo": {
+      "seo_title": "Marjemaa | Kah tore",
+      "seo_description": "Fotod eestist."
+    }
+  },
+
+
+
+
+
+
+  {
+    "parent_url": "readpildil",
+    "seo": {
+      "seo_title": "Marjemaa | Read Pildil",
+      "seo_description": "Tervituskaardid ja õnnesoovid."
+    },
+    "categories": ["Soovid", "Naeratusega", "Mõeldes sinule", "Mõtteke", "See hetk", "Ühtteist veel"]
+  },
+  {
+    "parent_url": "soovid",
+    "seo": {
+      "seo_title": "Marjemaa | Soovid",
+      "seo_description": "Tervituskaardid ja õnnesoovid."
+    }
+  },
+  {
+    "parent_url": "naeratusega",
+    "seo": {
+      "seo_title": "Marjemaa | Naeratusega",
+      "seo_description": "Tervituskaardid ja õnnesoovid."
+    }
+  },
+  {
+    "parent_url": "mõeldes sinule",
+    "seo": {
+      "seo_title": "Marjemaa | Mõeldes sinule",
+      "seo_description": "Tervituskaardid ja õnnesoovid."
+    }
+  },
+  {
+    "parent_url": "mõtteke",
+    "seo": {
+      "seo_title": "Marjemaa | Mõtteke",
+      "seo_description": "Tervituskaardid ja õnnesoovid."
+    }
+  },
+  {
+    "parent_url": "see hetk",
+    "seo": {
+      "seo_title": "Marjemaa | See hetk",
+      "seo_description": "Tervituskaardid ja õnnesoovid."
+    }
+  },
+  {
+    "parent_url": "ühtteist veel",
+    "seo": {
+      "seo_title": "Marjemaa | Ühtteist veel",
+      "seo_description": "Tervituskaardid ja õnnesoovid."
+    }
+  }
+]
